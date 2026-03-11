@@ -1,4 +1,4 @@
-from misaki import en, espeak
+from misaki import espeak
 import numpy as np
 import phonemizer
 import soundfile as sf
